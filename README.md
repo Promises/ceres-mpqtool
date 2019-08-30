@@ -76,7 +76,7 @@ $ mpqtool view myarchive.mpq war3map.j
 
 Creating a new archive from a directory `mydir` called `myarchive.mpq`:
 ```
-$ mpqtool new ./mydir myarhive.mpq 
+$ mpqtool new ./mydir myarchive.mpq 
 ```
 
 Listing all `.mdx` files present in an archive:
